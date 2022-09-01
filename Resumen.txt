@@ -1,0 +1,4 @@
+Primera cookieeeee...
+
+Eventos de Persistencia al equivocarse en formularios(No llenar campos obligatorios) o llenar
+con datos invalidos
